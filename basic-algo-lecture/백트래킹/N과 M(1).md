@@ -1,3 +1,5 @@
+### 조건
+- 1부터 N까지 자연수 중에서 중복 없이 M개를 고른 수열
 ```cpp
 #include <iostream>
 using namespace std;
