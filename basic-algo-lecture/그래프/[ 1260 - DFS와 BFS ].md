@@ -1,3 +1,6 @@
+## 문제
+https://www.acmicpc.net/problem/1260
+## 풀이
 ```cpp
 #include <iostream>
 #include <vector>
